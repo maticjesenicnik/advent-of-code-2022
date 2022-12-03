@@ -1,5 +1,5 @@
 let lineReader = require('readline').createInterface({
-  input: require('fs').createReadStream('inputs/input.txt')
+  input: require('fs').createReadStream('input.txt')
 });
 
 let points = {
