@@ -1,5 +1,5 @@
 var lineReader = require('readline').createInterface({
-  input: require('fs').createReadStream('inputs/input1.txt')
+  input: require('fs').createReadStream('input.txt')
 });
 
 let elves = [];
